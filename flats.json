@@ -4,7 +4,7 @@
     "id": 1,
     "name": "Las Navas Northern Samar",
     "imageUrl": "https://raw.githubusercontent.com/neilgagtan/tangag/master/Img/18-pinipisakan-falls-and-sulpan-cave-trexplore-the-adventures-750x469.jpg",
-    "price": 1,058.8,
+    "price": 1058.8,
     "priceCurrency": "km",
     "lat": 12.262180, 
     "lng": 125.053075
@@ -31,7 +31,7 @@
     "id": 4,
     "name": "caves near Calbiga Bridge, Samar",
     "imageUrl": "https://raw.githubusercontent.com/neilgagtan/tangag/master/Img/Calbiga-caves.jpg",
-    "price": 1,085.1,
+    "price": 1085.1,
     "priceCurrency": "km",
     "lat": 11.940073, 
     "lng": 125.040509
@@ -40,7 +40,7 @@
     "id": 5,
     "name": "Camiguin Island",
     "imageUrl": "https://raw.githubusercontent.com/neilgagtan/tangag/master/Img/Camiguin-Island-Philippines.jpg",
-    "price": 1,337.3,
+    "price": 1337.3,
     "priceCurrency": "km",
     "lat": 9.258709, 
     "lng": 124.655368
@@ -49,7 +49,7 @@
     "id": 6,
     "name": "Mount Apo",
     "imageUrl": "https://raw.githubusercontent.com/neilgagtan/tangag/master/Img/Mount-Apo.jpg",
-    "price": 1,886.4,
+    "price": 1886.4,
     "priceCurrency": "km",
     "lat": 6.987978,
     "lng": 125.269188
@@ -67,7 +67,7 @@
     "id": 8,
     "name": "Danjugan Island Cauayan",
     "imageUrl": "https://raw.githubusercontent.com/neilgagtan/tangag/master/Img/danjugan-island-the-poor-traveler-750x469.jpg",
-    "price": 1,126.1,
+    "price": 1126.1,
     "priceCurrency": "km",
     "lat": 9.873679, 
     "lng": 122.378604
@@ -76,7 +76,7 @@
     "id": 9,
     "name": "kalanggaman island",
     "imageUrl": "https://raw.githubusercontent.com/neilgagtan/tangag/master/Img/kalanggaman-island-768x512.jpg",
-    "price": 1,208.4,
+    "price": 1208.4,
     "priceCurrency": "km",
     "lat": 11.114580,
     "lng":  124.249449
@@ -94,7 +94,7 @@
     "id": 11,
     "name": "Tinuy-an Falls Borboanan, Bislig, Surigao del Sur",
     "imageUrl": "https://raw.githubusercontent.com/neilgagtan/tangag/master/Img/tinuy-an-falls-photography-and-the-spiritual-exercises-750x469.jpg",
-    "price": 1,629.3,
+    "price": 1629.3,
     "priceCurrency": "km",
     "lat": 8.172001, 
     "lng": 126.228204
@@ -103,7 +103,7 @@
     "id": 12,
     "name": "Bohol Chocolate hills",
     "imageUrl": "https://raw.githubusercontent.com/neilgagtan/tangag/master/Img/unnamed%20(1).jpg",
-    "price": 1,185.1,
+    "price": 1185.1,
     "priceCurrency": "km",
     "lat": 9.8297, 
     "lng": 124.1397
